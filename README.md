@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamyasreeSiri
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning NodeJS, MongoDB, SQL
+- 🌱 Looking to contribute in JS and Python projects
 - 💞️ I’m looking to collaborate on NodeJS
 - 📫 How to reach me ramya930pm@gmail.com
 
