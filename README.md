@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RamyasreeSiri
-- 👀 I’m interested in Development
-- 🌱 Looking to contribute in JS and Python projects
-- 💞️ I’m looking to collaborate on NodeJS
+- 👀 Web Developer, Open to Contribution.
 - 📫 How to reach me ramya930pm@gmail.com
 
 <!---
